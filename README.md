@@ -83,4 +83,4 @@ Raw source rasters (DEM, ShakeMap) are not committed to this repo due to file si
 
 ## Author
 
-Built as part of a self-directed GIS/geospatial learning path (UC Davis GIS Specialization, QGIS-based), targeting applied climate/disaster-risk work. [LinkedIn] · [Portfolio]
+Built as part of a self-directed GIS/geospatial learning path (UC Davis GIS Specialization, QGIS-based), targeting applied climate/disaster-risk work. [LinkedIn](https://www.linkedin.com/in/hanns-niedermark/) · [Website](hannsniedermark.com)
