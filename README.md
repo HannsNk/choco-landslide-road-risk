@@ -2,7 +2,7 @@
 
 **Which roads are most likely to be cut off by landslides after the August 10, 2026 Colombia earthquake — and where should ground assessment or reinforcement be prioritized first?**
 
-![Final risk map](outputs/maps/final_map_view.png)
+![Final risk map](outputs/maps/overview_map.png)
 *Medium (tier 3) and high (tier 4) landslide-susceptibility road intersections across Chocó, Risaralda, Caldas, and Quindío. See [full-resolution map](outputs/maps/final_risk_map.png).*
 
 ---
